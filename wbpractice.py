@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# This code demos retrieving data from WB API and interfacing with PostgreSQL DB hosted on AWS
+# This code demos retrieving data from World Bank Developer API and interfacing with PostgreSQL DB hosted on AWS
 import wbpy
 import psycopg2
 import sys
